@@ -1,0 +1,6 @@
+{
+  "name": "Hire Next",
+  "description": "Practical, project-based tech training programs and career readiness support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
